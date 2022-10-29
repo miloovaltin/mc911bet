@@ -1,0 +1,16 @@
+{
+"name": "mc911bet",
+"theme": "mc911bet",
+"version": "5.6.4",
+"description": "mc911bet ทางเข้าหลักเว็บไซต์พนันเว็บตรง สมาชิกเยอะ ให้โบนัสเครดิตฟรี",
+"keywords": [
+"mc911bet",
+"mc911bet เครดิตฟรี",
+"mc911bet ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/mc911bet",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
